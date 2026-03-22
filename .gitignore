@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+saved_models/        # model files are too large for GitHub
+*.safetensors
+*.bin
+*.pt
+data/final_dataset.csv   # if dataset is large/sensitive
